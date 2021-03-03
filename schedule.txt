@@ -1,0 +1,17 @@
+5 weekdays, at 10AM.
+
+li*4
+li>ul
+rnf
+https://docs.emmet.io/abbreviations/syntax/
+ul>li*5
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
+
+javac HelloWorld.java
+
+java HelloWorld
